@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "monitoringstack",
+  "private_key_id": "e16dec3c8999db4f3148ec67a302973648f73f7b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZ/Bmh23aViNpZ\njv9NFEtCmtdIbRj1KCR68OMaP7+hqKbQfFLcTfUN+E91I999KR7Vv+OS6biycv2w\nkQEnUGK9iwHgSKJsML/OPGYiFR24gDvhnu4aYohQIwy0cfmTTgb6V5YKL6cVLcRd\n7qjeInG4elp/7a1r1wWx8XMjaHV+MHY1pxE5083J8GEtGSM6JZH69ztMJhTxxdme\nKv9CqsAzWp3XLIo+lhRRbf6JvIiGWRXf1B2cPE4n4aDpKZM5WXgcBOUaC9GxGmzK\nCk/z2Fbh9T0FccEhlzpxOx7zQe8++/jJKuXDrqzi10Pa7gYXuW4kPRAIx6RtwFle\nssAie2bdAgMBAAECggEAAPTnGFyin0+dD2+5xXjxrYtWDaKARRbDsdI62XQod8pW\n6CTCvAAC/DDtRQK4k3xs7fe3+Fg0JGMlXz3iVn7IEXymgT2g5cl86oobaz1fc29i\n5xcqjRwgKIW+DlCbq2g+ksMNrLMz8BksVnZUJ+UDTbgbnKs3R3ChHxXyu9OhcyxE\nGHaI9r9jHOmGB3txGS65ZDsM5wCJBDFsADHB7dprBbWfMNTmFLhzhu95lrN5F1c/\nSpCJz/jUJ0+D+ZIbNRj9a/hcNRM9AYphweyIPM9n6VplOYibCCFO4x61T7lbwk57\n39eoXtuNBsOePmf6oRnnKSb4E7HDIZ8BnSidRHV8SQKBgQD9KOWUD7FvwNm9daYW\nLcQweiNGV+SNGS3ONT5bEQlAQzy7Iics0S0SeVkPJEHFIy8XvJozpmlzQCTjuOFU\nutlp4y971LsXTCX8/fKg3X8/ntZPu9JFuYLmAUAiJooglEGVDlt+mvQoUZsTC5q6\nMJyI0KsQ93Yv01v+4HCohp9AhQKBgQDcbi1Eiq05aNe72OmNSUz6DrpLGKBlY8/X\nxWkVGuCNuXTj3HIbHVWPrJ1cqNFrNpi0RAspOHBQ6KekcSQNav7BT4gg3Irw2yNB\nnLDAZCVygGVs9Shcl9N1LpQzWObZEUGMoobwf6elzFdBtub4/sZihoe4QBYb86XR\nIG8i6/bIeQKBgFoCIWX8EmUeVwxCeROnn/pwYnxPIaZ9DkkjqxDrxLNBdKVAJleL\n44+O73gvtualdMfmuZilkRZ19ue0QwFCEazRJn/Lid1lqJgDnjFNr0Fqct4UdFVv\n+LdYOHor465jp9GcMjGYXDi9kvo5hQCv6efG8RtuMGoeprW/DK8Odi6VAoGAGYx7\nmrIoGbtZJeCiUUnpriH+3a1hCd9ju7KZ12RiGosgTTjD0Pi5bgmnw5GdlDujv2ET\nmhd8jSQqKhkjAJsiI+2/7W8ie4AqufQbWHFDFd5j4xkXMIQ4ciCP9NOdDhO98Tr1\nQPLKz6C7jFZStxFwlQLawDRNW7gFxBNqTjXjSKECgYEAvmQ/ag4ZsVhS4LBbqy4j\nECofkSGdHTxHpIaVyDSd0D3GfdT5UAe9YE99bR7zJT4wL0Wd+NLAID9laWPXp6Qc\ns73L7JDesdLSZ7qYMk6aYSzVXqoucFC5NI8orx8FIdF8GvyhlZ03batAGAIyW8go\n2q4UrUR973Vn40nEBO0oI04=\n-----END PRIVATE KEY-----\n",
+  "client_email": "promtail-test@monitoringstack.iam.gserviceaccount.com",
+  "client_id": "108300219458475431793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/promtail-test%40monitoringstack.iam.gserviceaccount.com"
+}
